@@ -2,6 +2,7 @@
 
 Hi There! 👋
 
-- Im a first year college student.
+- I'm a Third year college student.
 - My course is BSIT.
-- Im currently learning python.
+- Im cooked
+- Certified Vibe Coder
